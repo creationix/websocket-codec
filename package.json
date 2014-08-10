@@ -1,0 +1,10 @@
+{
+  "name": "websocket-codec",
+  "version": "0.1.0",
+  "author": "Tim Caswell <tim@creationix.com>",
+  "main": "websocket-codec.js",
+  "license": "MIT",
+  "dependencies": {
+    "bodec": "^0.1.0"
+  }
+}
